@@ -1,4 +1,5 @@
-﻿namespace OrderPlacement.Controllers
+﻿
+namespace OrderPlacement.Controllers
 {
     public class PlaceOrderRequest
     {
